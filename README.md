@@ -1,4 +1,4 @@
-# craps-with-odds
+# Craps with odds betting
 Texted based craps game with odds betting
 
 Same as the "craps" repository, only this verions merges all the functions into a singal file and allows the player to make an odds bet.
